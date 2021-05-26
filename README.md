@@ -18,3 +18,11 @@ Phase portrait of a random polynomial of degree 2001 with +/-1 random coefficien
 Phase portrait of the Gaussien Entire Function on [-8,8]x[-8,8]. I only kept the Taylor polynomial up to degree 200. The zero set is stationary, see the *GEF Book* by Hough et al. 
 
 ![](GEF.png)
+
+## Gaussian random wave
+
+Phase portrait of the complex gaussian random wave, ie a random solution of Helmotz's equation in the complex plane (real part + complex part). See [this paper by Nourdin Peccati and Rossi](https://arxiv.org/pdf/1708.02281.pdf) and especially the representation in equation 1.5. 
+
+![](randomwave.png)
+
+As you see I get some kind of pixelized effect, I don't know why. 
