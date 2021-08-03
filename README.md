@@ -26,3 +26,14 @@ Phase portrait of the complex gaussian random wave, ie a random solution of Helm
 ![](randomwave.png)
 
 As you see I get some kind of pixelized effect, I don't know why. 
+
+## Random arithmetic wave
+
+The solutions of the Laplace equations on the torus have energy 4*pi*n where n can be written as the [sum of two squares](https://en.wikipedia.org/wiki/Sum_of_two_squares_theorem) and the dimension of the associated eigenspace is the number of ways to write n as a sum of two squares. Here are the nodal domains of one random (gaussian) eigenfunction associated with n=85. 
+
+See also the [Krishnapur et al.](https://arxiv.org/pdf/1111.2800.pdf) paper.
+
+Picture is in 4k so might take time to load. More will follow. 
+
+![](arithmetic.png)
+
